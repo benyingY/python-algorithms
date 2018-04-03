@@ -1,4 +1,7 @@
 def shortBubbleSort(alist):
+    """
+        Problem Solving with Algorithms and Data Structures using Python
+    """
     exchanges = True
     passnum = len(alist)-1
     while passnum > 0 and exchanges:
